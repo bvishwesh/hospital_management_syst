@@ -89,7 +89,5 @@ This project is for academic purposes. Contact the author for reuse permissions.
 
 ## 👤 Author
 
-**Abdul Sarim Khan**  
-Database & Management Systems – CCP  
-Iqra University  
+**B.Vishwesh**  
 
